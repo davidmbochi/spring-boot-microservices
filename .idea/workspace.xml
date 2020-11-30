@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="891a4bb6-6e58-40e2-8066-81cf4a8441c6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1l0KZ9MobLYxckMmVT5lGz5hZUm" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/eureka-server" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="eureka-server" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="eureka-server" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootMicroservicesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="eureka-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.springbootmicroservices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springbootmicroservices.SpringBootMicroservicesApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SpringBootMicroservicesApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="891a4bb6-6e58-40e2-8066-81cf4a8441c6" name="Default Changelist" comment="" />
+      <created>1606728621694</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606728621694</updated>
+      <workItem from="1606728628693" duration="2335000" />
+      <workItem from="1606732274834" duration="5221000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="94" y="60" width="1272" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606732421525">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state x="94" y="60" width="1272" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.31.1366.737@0.31.1366.737" timestamp="1606732421525" />
+    <state x="491" y="89" width="384" height="629" key="#com.intellij.ide.util.MemberChooser" timestamp="1606734229166">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state x="491" y="89" width="384" height="629" key="#com.intellij.ide.util.MemberChooser/0.31.1366.737@0.31.1366.737" timestamp="1606734229166" />
+    <state x="466" y="160" width="434" height="487" key="FileChooserDialogImpl" timestamp="1606737580686">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state x="466" y="160" width="434" height="487" key="FileChooserDialogImpl/0.31.1366.737@0.31.1366.737" timestamp="1606737580686" />
+    <state width="1320" height="142" key="GridCell.Tab.0.bottom" timestamp="1606737584119">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state width="1320" height="142" key="GridCell.Tab.0.bottom/0.31.1366.737@0.31.1366.737" timestamp="1606737584119" />
+    <state width="1320" height="142" key="GridCell.Tab.0.center" timestamp="1606737584119">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state width="1320" height="142" key="GridCell.Tab.0.center/0.31.1366.737@0.31.1366.737" timestamp="1606737584119" />
+    <state width="1320" height="142" key="GridCell.Tab.0.left" timestamp="1606737584119">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state width="1320" height="142" key="GridCell.Tab.0.left/0.31.1366.737@0.31.1366.737" timestamp="1606737584119" />
+    <state width="1320" height="142" key="GridCell.Tab.0.right" timestamp="1606737584119">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state width="1320" height="142" key="GridCell.Tab.0.right/0.31.1366.737@0.31.1366.737" timestamp="1606737584119" />
+    <state width="1320" height="142" key="GridCell.Tab.1.bottom" timestamp="1606737584120">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state width="1320" height="142" key="GridCell.Tab.1.bottom/0.31.1366.737@0.31.1366.737" timestamp="1606737584120" />
+    <state width="1320" height="142" key="GridCell.Tab.1.center" timestamp="1606737584120">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state width="1320" height="142" key="GridCell.Tab.1.center/0.31.1366.737@0.31.1366.737" timestamp="1606737584120" />
+    <state width="1320" height="142" key="GridCell.Tab.1.left" timestamp="1606737584120">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state width="1320" height="142" key="GridCell.Tab.1.left/0.31.1366.737@0.31.1366.737" timestamp="1606737584120" />
+    <state width="1320" height="142" key="GridCell.Tab.1.right" timestamp="1606737584120">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state width="1320" height="142" key="GridCell.Tab.1.right/0.31.1366.737@0.31.1366.737" timestamp="1606737584120" />
+    <state x="332" y="31" key="SettingsEditor" timestamp="1606732354339">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state x="332" y="31" key="SettingsEditor/0.31.1366.737@0.31.1366.737" timestamp="1606732354339" />
+  </component>
+</project>
